@@ -2,7 +2,7 @@
 
 Implementation of various machine learning algorithms and deep learning models to predict and classify the age group of blog posts.
 
-Data source: [Blogger](https://www.blogger.com/about/?r=1-null_user)
+Data source: [Blogger](https://www.blogger.com/about/?r=1-null_user), [train_posts.csv](http://www-labs.iro.umontreal.ca/~felipe/IFT6285-Automne2019/resources/tp2/train_posts.csv)
 
 ## Setup
 #### Dependencies:
